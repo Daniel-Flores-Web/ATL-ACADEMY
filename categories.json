@@ -1,26 +1,27 @@
 [
   {
-    "category": "Cultura",
-    "description": "Preguntas relacionadas con arte, literatura, música y otras expresiones culturales."
+    "category": "Geografía",
+    "description": "Preguntas relacionadas con países, capitales, continentes y características geográficas."
   },
   {
-    "category": "Deportes",
-    "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
+    "category": "Tecnología",
+    "description": "Preguntas relacionadas con dispositivos electrónicos, innovaciones tecnológicas y términos tecnológicos."
   },
   {
-    "category": "Arte",
-    "description": "Preguntas relacionadas con pintura, escultura, arquitectura y otras formas de expresión artística."
+    "category": "Literatura",
+    "description": "Preguntas relacionadas con libros, autores, poemas y obras literarias famosas."
   },
   {
-    "category": "Cine",
-    "description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine."
+    "category": "Música",
+    "description": "Preguntas relacionadas con géneros musicales, bandas, cantantes y canciones populares."
   },
   {
-    "category": "Historia",
-    "description": "Preguntas relacionadas con eventos históricos, personajes y períodos importantes."
+    "category": "Matemáticas",
+    "description": "Preguntas relacionadas con operaciones matemáticas, problemas y conceptos matemáticos."
   },
   {
-    "category": "Ciencia",
-    "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos."
+    "category": "Idiomas",
+    "description": "Preguntas relacionadas con vocabulario, gramática, frases comunes y curiosidades lingüísticas."
   }
 ]
+
